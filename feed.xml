@@ -4,8 +4,28 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://yoursite.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Sep 2024 14:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 18:37:26 GMT</lastBuildDate>
         <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Next.js 블로그를 GitHub Pages에 배포하는 방법 (Blog Boilerplate 사용)]]></title>
+            <description><![CDATA[Next.js Blog Boilerplate를 사용해 생성한 정적 블로그를 GitHub Pages에 배포하는 과정입니다. React 등 기타 요소를 깊숙히 다루지 않고도 간단하고 깔끔한 정적 블로그를 간편하게 제작할 수 있는 방법을 소개합니다.]]></description>
+            <link>/posts/how-to-deploy-nextjs-blog-on-github-pages</link>
+            <guid isPermaLink="true">/posts/how-to-deploy-nextjs-blog-on-github-pages</guid>
+            <category><![CDATA[Next.js]]></category>
+            <category><![CDATA[GitHub Pages]]></category>
+            <category><![CDATA[블로그 배포]]></category>
+            <dc:creator><![CDATA[Emil Kwak]]></dc:creator>
+            <pubDate>Fri, 20 Sep 2024 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Markdown Examples]]></title>
+            <description><![CDATA[View examples of all possible Markdown options.]]></description>
+            <link>/posts/markdown</link>
+            <guid isPermaLink="true">/posts/markdown</guid>
+            <category><![CDATA[web development]]></category>
+            <dc:creator><![CDATA[You]]></dc:creator>
+            <pubDate>Thu, 18 Mar 2021 15:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Next.js Pages]]></title>
             <description><![CDATA[Learn more about Next.js pages.]]></description>
@@ -16,13 +36,13 @@
             <pubDate>Wed, 17 Mar 2021 15:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Markdown Examples]]></title>
-            <description><![CDATA[View examples of all possible Markdown options.]]></description>
-            <link>/posts/markdown</link>
-            <guid isPermaLink="true">/posts/markdown</guid>
-            <category><![CDATA[web development]]></category>
+            <title><![CDATA[Test Article]]></title>
+            <description><![CDATA[It is a test article.]]></description>
+            <link>/posts/test</link>
+            <guid isPermaLink="true">/posts/test</guid>
+            <category><![CDATA[test]]></category>
             <dc:creator><![CDATA[You]]></dc:creator>
-            <pubDate>Thu, 18 Mar 2021 15:00:00 GMT</pubDate>
+            <pubDate>Thu, 19 Sep 2024 15:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

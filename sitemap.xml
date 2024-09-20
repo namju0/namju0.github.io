@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://namju0.github.io</loc><lastmod>2024-09-20T18:35:21.394Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://namju0.github.io/photos</loc><lastmod>2024-09-20T18:35:21.395Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://namju0.github.io/posts</loc><lastmod>2024-09-20T18:35:21.395Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://namju0.github.io/posts/how-to-deploy-nextjs-blog-on-github-pages</loc><lastmod>2024-09-20T18:35:21.395Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://namju0.github.io/posts/markdown</loc><lastmod>2024-09-20T18:35:21.395Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://namju0.github.io/posts/pages</loc><lastmod>2024-09-20T18:35:21.395Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://namju0.github.io/posts/test</loc><lastmod>2024-09-20T18:35:21.395Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>

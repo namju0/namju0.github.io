@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://namju0.github.io
+
+# Sitemaps
+Sitemap: https://namju0.github.io/sitemap.xml
