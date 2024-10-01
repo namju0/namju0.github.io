@@ -4,7 +4,7 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://yoursite.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Sep 2024 19:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 06:29:42 GMT</lastBuildDate>
         <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Next.js 블로그를 GitHub Pages에 배포하는 방법 (Blog Boilerplate 사용)]]></title>
@@ -15,6 +15,17 @@
             <category><![CDATA[GitHub Pages]]></category>
             <dc:creator><![CDATA[Emil Kwak]]></dc:creator>
             <pubDate>Fri, 20 Sep 2024 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pd.crosstab을 활용한 데이터 분석(신용등급 전이행렬 예제)]]></title>
+            <description><![CDATA[pd.crosstab은 판다스에서 데이터를 요약해 교차표를 만들기 위해 사용하는 강력한 도구입니다. 여기에서는 pd.crosstab로 신용등급 전이행렬 예제로 그 사용법을 쉽게 설명합니다.]]></description>
+            <link>/posts/pd_crosstab_tutorial_with_example</link>
+            <guid isPermaLink="true">/posts/pd_crosstab_tutorial_with_example</guid>
+            <category><![CDATA[pandas]]></category>
+            <category><![CDATA[crosstab]]></category>
+            <category><![CDATA[전이행렬]]></category>
+            <dc:creator><![CDATA[Emil Kwak]]></dc:creator>
+            <pubDate>Mon, 30 Sep 2024 15:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vim에서 클립보드 내용을 명령줄에 붙여넣는 방법]]></title>
