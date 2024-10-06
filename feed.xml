@@ -4,8 +4,29 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://yoursite.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Oct 2024 01:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2024 00:56:59 GMT</lastBuildDate>
         <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ffmpeg로 동영상 편집하기 - 포맷 변환부터 구간 자르기까지]]></title>
+            <description><![CDATA[ffmpeg를 활용해 동영상 편집을 쉽게 할 수 있는 방법을 소개합니다. 동영상 포맷 변환, 화질 조정, 구간 자르기, 영상 합치기, 소리만 추출하기 등 다양한 작업을 설명합니다.]]></description>
+            <link>/posts/ffmpeg-video-editing-guide</link>
+            <guid isPermaLink="true">/posts/ffmpeg-video-editing-guide</guid>
+            <category><![CDATA[ffmpeg]]></category>
+            <category><![CDATA[동영상 편집]]></category>
+            <dc:creator><![CDATA[Emil Kwak]]></dc:creator>
+            <pubDate>Sat, 05 Oct 2024 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pd.crosstab을 활용한 데이터 분석(신용등급 전이행렬 예제)]]></title>
+            <description><![CDATA[pd.crosstab은 판다스에서 데이터를 요약해 교차표를 만들기 위해 사용하는 강력한 도구입니다. 여기에서는 pd.crosstab로 신용등급 전이행렬 예제로 그 사용법을 쉽게 설명합니다.]]></description>
+            <link>/posts/pd-crosstab-tutorial-with-example</link>
+            <guid isPermaLink="true">/posts/pd-crosstab-tutorial-with-example</guid>
+            <category><![CDATA[pandas]]></category>
+            <category><![CDATA[crosstab]]></category>
+            <category><![CDATA[전이행렬]]></category>
+            <dc:creator><![CDATA[Emil Kwak]]></dc:creator>
+            <pubDate>Mon, 30 Sep 2024 15:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Next.js 블로그를 GitHub Pages에 배포하는 방법 (Blog Boilerplate 사용)]]></title>
             <description><![CDATA[Next.js Blog Boilerplate를 사용해 생성한 정적 블로그를 GitHub Pages에 배포하는 과정입니다. React 등 기타 요소를 깊숙히 다루지 않고도 간단하고 깔끔한 정적 블로그를 간편하게 제작할 수 있는 방법을 소개합니다.]]></description>
@@ -17,15 +38,16 @@
             <pubDate>Fri, 20 Sep 2024 15:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[pd.crosstab을 활용한 데이터 분석(신용등급 전이행렬 예제)]]></title>
-            <description><![CDATA[pd.crosstab은 판다스에서 데이터를 요약해 교차표를 만들기 위해 사용하는 강력한 도구입니다. 여기에서는 pd.crosstab로 신용등급 전이행렬 예제로 그 사용법을 쉽게 설명합니다.]]></description>
-            <link>/posts/pd_crosstab_tutorial_with_example</link>
-            <guid isPermaLink="true">/posts/pd_crosstab_tutorial_with_example</guid>
-            <category><![CDATA[pandas]]></category>
-            <category><![CDATA[crosstab]]></category>
-            <category><![CDATA[전이행렬]]></category>
+            <title><![CDATA[Vim에서 파일 비교하기(diffthis)]]></title>
+            <description><![CDATA[Vim에서 두 개 또는 세 개 이상의 파일을 비교하기 위해서는 diffthis 명령어를 사용할 수 있습니다. 세 파일 이상을 비교할 때는 windo diffthis를 사용하면 보다 편리합니다.]]></description>
+            <link>/posts/vim-diff-two-files-guide</link>
+            <guid isPermaLink="true">/posts/vim-diff-two-files-guide</guid>
+            <category><![CDATA[Vim]]></category>
+            <category><![CDATA[diffthis]]></category>
+            <category><![CDATA[windo]]></category>
+            <category><![CDATA[파일 비교]]></category>
             <dc:creator><![CDATA[Emil Kwak]]></dc:creator>
-            <pubDate>Mon, 30 Sep 2024 15:00:00 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 15:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vim에서 클립보드 내용을 명령줄에 붙여넣는 방법]]></title>
@@ -35,18 +57,6 @@
             <category><![CDATA[Vim]]></category>
             <dc:creator><![CDATA[Emil Kwak]]></dc:creator>
             <pubDate>Sat, 21 Sep 2024 15:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vim에서 파일 비교하기(diffthis)]]></title>
-            <description><![CDATA[Vim에서 두 개 또는 세 개 이상의 파일을 비교하기 위해서는 diffthis 명령어를 사용할 수 있습니다. 세 파일 이상을 비교할 때는 windo diffthis를 사용하면 보다 편리합니다.]]></description>
-            <link>/posts/vim_diff_two_files_guide</link>
-            <guid isPermaLink="true">/posts/vim_diff_two_files_guide</guid>
-            <category><![CDATA[Vim]]></category>
-            <category><![CDATA[diffthis]]></category>
-            <category><![CDATA[windo]]></category>
-            <category><![CDATA[파일 비교]]></category>
-            <dc:creator><![CDATA[Emil Kwak]]></dc:creator>
-            <pubDate>Wed, 02 Oct 2024 15:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
